@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab6\B200900802_lab6\B200900802_lab6\bin\Debug\B200900802_lab6.exe.config
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab6\B200900802_lab6\B200900802_lab6\bin\Debug\B200900802_lab6.exe
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab6\B200900802_lab6\B200900802_lab6\bin\Debug\B200900802_lab6.pdb
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab6\B200900802_lab6\B200900802_lab6\obj\Debug\B200900802_lab6.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab6\B200900802_lab6\B200900802_lab6\obj\Debug\B200900802_lab6.Form1.resources
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab6\B200900802_lab6\B200900802_lab6\obj\Debug\B200900802_lab6.Properties.Resources.resources
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab6\B200900802_lab6\B200900802_lab6\obj\Debug\B200900802_lab6.ucAddress.resources
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab6\B200900802_lab6\B200900802_lab6\obj\Debug\B200900802_lab6.csproj.GenerateResource.cache
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab6\B200900802_lab6\B200900802_lab6\obj\Debug\B200900802_lab6.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab6\B200900802_lab6\B200900802_lab6\obj\Debug\B200900802_lab6.exe
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab6\B200900802_lab6\B200900802_lab6\obj\Debug\B200900802_lab6.pdb
