@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab10\trafficlight\TrafficLight\TrafficLight\bin\Debug\TrafficLight.exe.config
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab10\trafficlight\TrafficLight\TrafficLight\bin\Debug\TrafficLight.exe
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab10\trafficlight\TrafficLight\TrafficLight\bin\Debug\TrafficLight.pdb
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab10\trafficlight\TrafficLight\TrafficLight\obj\Debug\TrafficLight.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab10\trafficlight\TrafficLight\TrafficLight\obj\Debug\TrafficLight.Form1.resources
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab10\trafficlight\TrafficLight\TrafficLight\obj\Debug\TrafficLight.Properties.Resources.resources
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab10\trafficlight\TrafficLight\TrafficLight\obj\Debug\TrafficLight.csproj.GenerateResource.cache
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab10\trafficlight\TrafficLight\TrafficLight\obj\Debug\TrafficLight.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab10\trafficlight\TrafficLight\TrafficLight\obj\Debug\TrafficLight.exe
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab10\trafficlight\TrafficLight\TrafficLight\obj\Debug\TrafficLight.pdb
