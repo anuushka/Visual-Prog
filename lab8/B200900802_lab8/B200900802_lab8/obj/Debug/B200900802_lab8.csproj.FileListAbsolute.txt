@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab8\B200900802_lab8\B200900802_lab8\bin\Debug\B200900802_lab8.exe.config
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab8\B200900802_lab8\B200900802_lab8\bin\Debug\B200900802_lab8.exe
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab8\B200900802_lab8\B200900802_lab8\bin\Debug\B200900802_lab8.pdb
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab8\B200900802_lab8\B200900802_lab8\obj\Debug\B200900802_lab8.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab8\B200900802_lab8\B200900802_lab8\obj\Debug\B200900802_lab8.AdminForm.resources
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab8\B200900802_lab8\B200900802_lab8\obj\Debug\B200900802_lab8.DetailsForm.resources
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab8\B200900802_lab8\B200900802_lab8\obj\Debug\B200900802_lab8.FoodAdminForm.resources
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab8\B200900802_lab8\B200900802_lab8\obj\Debug\B200900802_lab8.Properties.Resources.resources
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab8\B200900802_lab8\B200900802_lab8\obj\Debug\B200900802_lab8.csproj.GenerateResource.cache
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab8\B200900802_lab8\B200900802_lab8\obj\Debug\B200900802_lab8.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab8\B200900802_lab8\B200900802_lab8\obj\Debug\B200900802_lab8.exe
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab8\B200900802_lab8\B200900802_lab8\obj\Debug\B200900802_lab8.pdb
