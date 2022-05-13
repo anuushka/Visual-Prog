@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab12\thread_lab\thread_lab\bin\Debug\thread_lab.exe.config
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab12\thread_lab\thread_lab\bin\Debug\thread_lab.exe
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab12\thread_lab\thread_lab\bin\Debug\thread_lab.pdb
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab12\thread_lab\thread_lab\obj\Debug\thread_lab.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab12\thread_lab\thread_lab\obj\Debug\thread_lab.Form1.resources
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab12\thread_lab\thread_lab\obj\Debug\thread_lab.Properties.Resources.resources
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab12\thread_lab\thread_lab\obj\Debug\thread_lab.csproj.GenerateResource.cache
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab12\thread_lab\thread_lab\obj\Debug\thread_lab.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab12\thread_lab\thread_lab\obj\Debug\thread_lab.exe
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab12\thread_lab\thread_lab\obj\Debug\thread_lab.pdb
