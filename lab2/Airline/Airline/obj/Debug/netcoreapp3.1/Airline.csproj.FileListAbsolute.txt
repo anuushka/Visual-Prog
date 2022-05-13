@@ -1,0 +1,32 @@
+C:\Users\User\source\repos\Airline\Airline\bin\Debug\netcoreapp3.1\Airline.exe
+C:\Users\User\source\repos\Airline\Airline\bin\Debug\netcoreapp3.1\Airline.deps.json
+C:\Users\User\source\repos\Airline\Airline\bin\Debug\netcoreapp3.1\Airline.runtimeconfig.json
+C:\Users\User\source\repos\Airline\Airline\bin\Debug\netcoreapp3.1\Airline.runtimeconfig.dev.json
+C:\Users\User\source\repos\Airline\Airline\bin\Debug\netcoreapp3.1\Airline.dll
+C:\Users\User\source\repos\Airline\Airline\bin\Debug\netcoreapp3.1\Airline.pdb
+C:\Users\User\source\repos\Airline\Airline\obj\Debug\netcoreapp3.1\Airline.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Airline\Airline\obj\Debug\netcoreapp3.1\Airline.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Airline\Airline\obj\Debug\netcoreapp3.1\Airline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Airline\Airline\obj\Debug\netcoreapp3.1\Airline.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Airline\Airline\obj\Debug\netcoreapp3.1\Airline.AssemblyInfo.cs
+C:\Users\User\source\repos\Airline\Airline\obj\Debug\netcoreapp3.1\Airline.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Airline\Airline\obj\Debug\netcoreapp3.1\Airline.dll
+C:\Users\User\source\repos\Airline\Airline\obj\Debug\netcoreapp3.1\Airline.pdb
+C:\Users\User\source\repos\Airline\Airline\obj\Debug\netcoreapp3.1\Airline.genruntimeconfig.cache
+C:\Users\User\source\repos\Airline\Airline\obj\Debug\netcoreapp3.1\Airline.Airline.resources
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab2\Airline\Airline\bin\Debug\netcoreapp3.1\Airline.exe
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab2\Airline\Airline\bin\Debug\netcoreapp3.1\Airline.deps.json
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab2\Airline\Airline\bin\Debug\netcoreapp3.1\Airline.runtimeconfig.json
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab2\Airline\Airline\bin\Debug\netcoreapp3.1\Airline.runtimeconfig.dev.json
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab2\Airline\Airline\bin\Debug\netcoreapp3.1\Airline.dll
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab2\Airline\Airline\bin\Debug\netcoreapp3.1\Airline.pdb
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab2\Airline\Airline\obj\Debug\netcoreapp3.1\Airline.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab2\Airline\Airline\obj\Debug\netcoreapp3.1\Airline.Airline.resources
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab2\Airline\Airline\obj\Debug\netcoreapp3.1\Airline.csproj.GenerateResource.cache
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab2\Airline\Airline\obj\Debug\netcoreapp3.1\Airline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab2\Airline\Airline\obj\Debug\netcoreapp3.1\Airline.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab2\Airline\Airline\obj\Debug\netcoreapp3.1\Airline.AssemblyInfo.cs
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab2\Airline\Airline\obj\Debug\netcoreapp3.1\Airline.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab2\Airline\Airline\obj\Debug\netcoreapp3.1\Airline.dll
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab2\Airline\Airline\obj\Debug\netcoreapp3.1\Airline.pdb
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab2\Airline\Airline\obj\Debug\netcoreapp3.1\Airline.genruntimeconfig.cache
