@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab14\ShippingHub\ShippingHub\bin\Debug\ShippingHub.exe.config
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab14\ShippingHub\ShippingHub\bin\Debug\ShippingHub.exe
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab14\ShippingHub\ShippingHub\bin\Debug\ShippingHub.pdb
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab14\ShippingHub\ShippingHub\obj\Debug\ShippingHub.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab14\ShippingHub\ShippingHub\obj\Debug\ShippingHub.Properties.Resources.resources
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab14\ShippingHub\ShippingHub\obj\Debug\ShippingHub.csproj.GenerateResource.cache
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab14\ShippingHub\ShippingHub\obj\Debug\ShippingHub.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab14\ShippingHub\ShippingHub\obj\Debug\ShippingHub.exe
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab14\ShippingHub\ShippingHub\obj\Debug\ShippingHub.pdb
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab14\ShippingHub\ShippingHub\obj\Debug\ShippingHub.ShippingHub.resources
