@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab3\library\library\bin\Debug\netcoreapp3.1\library.exe
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab3\library\library\bin\Debug\netcoreapp3.1\library.deps.json
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab3\library\library\bin\Debug\netcoreapp3.1\library.runtimeconfig.json
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab3\library\library\bin\Debug\netcoreapp3.1\library.runtimeconfig.dev.json
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab3\library\library\bin\Debug\netcoreapp3.1\library.dll
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab3\library\library\bin\Debug\netcoreapp3.1\library.pdb
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab3\library\library\obj\Debug\netcoreapp3.1\library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab3\library\library\obj\Debug\netcoreapp3.1\library.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab3\library\library\obj\Debug\netcoreapp3.1\library.AssemblyInfo.cs
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab3\library\library\obj\Debug\netcoreapp3.1\library.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab3\library\library\obj\Debug\netcoreapp3.1\library.dll
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab3\library\library\obj\Debug\netcoreapp3.1\library.pdb
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab3\library\library\obj\Debug\netcoreapp3.1\library.genruntimeconfig.cache
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab3\library\library\obj\Debug\netcoreapp3.1\library.csproj.AssemblyReference.cache
