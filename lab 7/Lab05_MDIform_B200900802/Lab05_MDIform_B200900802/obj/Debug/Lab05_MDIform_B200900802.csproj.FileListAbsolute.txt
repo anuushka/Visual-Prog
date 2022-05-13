@@ -1,0 +1,28 @@
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab5\Lab05_MDIform_B200900802\Lab05_MDIform_B200900802\obj\Debug\Lab05_MDIform_B200900802.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab5\Lab05_MDIform_B200900802\Lab05_MDIform_B200900802\obj\Debug\Lab05_MDIform_B200900802.JuiceBarForm.resources
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab5\Lab05_MDIform_B200900802\Lab05_MDIform_B200900802\obj\Debug\Lab05_MDIform_B200900802.Properties.Resources.resources
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab5\Lab05_MDIform_B200900802\Lab05_MDIform_B200900802\obj\Debug\Lab05_MDIform_B200900802.csproj.GenerateResource.cache
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab5\Lab05_MDIform_B200900802\Lab05_MDIform_B200900802\obj\Debug\Lab05_MDIform_B200900802.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab5\Lab05_MDIform_B200900802\Lab05_MDIform_B200900802\bin\Debug\Lab05_MDIform_B200900802.exe.config
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab5\Lab05_MDIform_B200900802\Lab05_MDIform_B200900802\bin\Debug\Lab05_MDIform_B200900802.exe
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab5\Lab05_MDIform_B200900802\Lab05_MDIform_B200900802\bin\Debug\Lab05_MDIform_B200900802.pdb
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab5\Lab05_MDIform_B200900802\Lab05_MDIform_B200900802\obj\Debug\Lab05_MDIform_B200900802.exe
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab5\Lab05_MDIform_B200900802\Lab05_MDIform_B200900802\obj\Debug\Lab05_MDIform_B200900802.pdb
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab5\Lab05_MDIform_B200900802\Lab05_MDIform_B200900802\obj\Debug\Lab05_MDIform_B200900802.FoodForm.resources
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab5\Lab05_MDIform_B200900802\Lab05_MDIform_B200900802\obj\Debug\Lab05_MDIform_B200900802.Restaurant_Registry.resources
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab5\Lab05_MDIform_B200900802\Lab05_MDIform_B200900802\obj\Debug\Lab05_MDIform_B200900802.Summary.resources
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab5\Lab05_MDIform_B200900802\Lab05_MDIform_B200900802\obj\Debug\Lab05_MDIform_B200900802.About.resources
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab 7\Lab05_MDIform_B200900802\Lab05_MDIform_B200900802\bin\Debug\Lab05_MDIform_B200900802.exe.config
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab 7\Lab05_MDIform_B200900802\Lab05_MDIform_B200900802\bin\Debug\Lab05_MDIform_B200900802.exe
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab 7\Lab05_MDIform_B200900802\Lab05_MDIform_B200900802\bin\Debug\Lab05_MDIform_B200900802.pdb
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab 7\Lab05_MDIform_B200900802\Lab05_MDIform_B200900802\obj\Debug\Lab05_MDIform_B200900802.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab 7\Lab05_MDIform_B200900802\Lab05_MDIform_B200900802\obj\Debug\Lab05_MDIform_B200900802.About.resources
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab 7\Lab05_MDIform_B200900802\Lab05_MDIform_B200900802\obj\Debug\Lab05_MDIform_B200900802.FoodForm.resources
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab 7\Lab05_MDIform_B200900802\Lab05_MDIform_B200900802\obj\Debug\Lab05_MDIform_B200900802.JuiceBarForm.resources
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab 7\Lab05_MDIform_B200900802\Lab05_MDIform_B200900802\obj\Debug\Lab05_MDIform_B200900802.Properties.Resources.resources
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab 7\Lab05_MDIform_B200900802\Lab05_MDIform_B200900802\obj\Debug\Lab05_MDIform_B200900802.Restaurant_Registry.resources
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab 7\Lab05_MDIform_B200900802\Lab05_MDIform_B200900802\obj\Debug\Lab05_MDIform_B200900802.Summary.resources
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab 7\Lab05_MDIform_B200900802\Lab05_MDIform_B200900802\obj\Debug\Lab05_MDIform_B200900802.csproj.GenerateResource.cache
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab 7\Lab05_MDIform_B200900802\Lab05_MDIform_B200900802\obj\Debug\Lab05_MDIform_B200900802.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab 7\Lab05_MDIform_B200900802\Lab05_MDIform_B200900802\obj\Debug\Lab05_MDIform_B200900802.exe
+C:\Users\User\Desktop\MUST\Visual programming\hw\lab 7\Lab05_MDIform_B200900802\Lab05_MDIform_B200900802\obj\Debug\Lab05_MDIform_B200900802.pdb
